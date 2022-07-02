@@ -1,0 +1,11 @@
+table,
+th,
+td {
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+
+div.static {
+    position: static;
+    border: 3px solid #73AD21;
+}
